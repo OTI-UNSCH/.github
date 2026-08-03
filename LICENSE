@@ -1,0 +1,193 @@
+UNSCH PROPRIETARY LICENSE
+Copyright (c) 2026 Universidad Nacional de San Cristóbal de Huamanga (UNSCH)
+Oficina de Tecnologías de la Información (OTI)
+All rights reserved.
+
+This software, including its source code, object code, documentation,
+configuration files, design assets, and any associated media
+(collectively, the "Software"), is the exclusive property of the
+Universidad Nacional de San Cristóbal de Huamanga (UNSCH), a public
+higher education institution of the Republic of Peru, developed and
+maintained by its Oficina de Tecnologías de la Información (OTI).
+
+The Software is authored, commissioned, and funded with public resources
+in the exercise of UNSCH's official functions. It is protected by the
+Peruvian copyright legislation (Decreto Legislativo N.° 822, Ley sobre
+el Derecho de Autor) and by the applicable international treaties to
+which Peru is a party. All intellectual property rights, including but
+not limited to copyright, database rights, trade secrets, and any
+related rights, are reserved to UNSCH.
+
+================================================================================
+
+1. # GRANT OF ACCESS
+
+Access to the public repositories hosted under the OTI-UNSCH
+organization is provided as a courtesy to facilitate technical review,
+collaboration, and academic reference. Such access does NOT constitute
+the grant of a license, a transfer of rights, or any authorization to
+use, copy, modify, distribute, or create derivative works of the
+Software, except as expressly stated in this document.
+
+================================================================================ 2. PERMITTED USES (INTERNAL COLLABORATORS)
+================================================================================
+
+The following uses are permitted ONLY for individuals who have been
+expressly authorized in writing by UNSCH, acting through the OTI, in
+their capacity as:
+
+a) Employees or contractors of UNSCH assigned to the OTI;
+b) Members of an internal development team with an active contribution
+agreement;
+c) Students performing supervised academic practice (pre-profesional
+or profesional internships) under an active agreement with UNSCH;
+d) Public officials of cooperating Peruvian government entities
+explicitly designated by OTI for a documented collaboration.
+
+For these authorized collaborators, the following is permitted,
+strictly within the scope of the documented collaboration and subject
+to the restrictions of Section 3:
+
+- Reading and downloading the source code for the purpose of
+  contributing back to the project;
+- Forking the repository for the purpose of submitting proposed
+  changes via Pull Request;
+- Reproducing, in executable form, the Software in development,
+  staging, or production environments operated by or for UNSCH.
+
+================================================================================ 3. EXPRESS PROHIBITIONS
+================================================================================
+
+Unless prior written authorization has been granted by UNSCH (through
+the OTI), the following are strictly prohibited:
+
+a) Commercial use of any kind, including selling, licensing,
+sublicensing, renting, leasing, or otherwise exploiting the
+Software for pecuniary gain;
+b) Distribution of the Software, in whole or in part, in source or
+object form, by any means (public repositories, package
+registries, file-sharing, physical media, etc.);
+c) Modification, adaptation, translation, reverse engineering,
+decompilation, or disassembly of the Software, except to the
+extent that such activity is expressly permitted by applicable
+law;
+d) Removal, alteration, or concealment of any copyright notice,
+trademark, watermark, or attribution contained in or accompanying
+the Software;
+e) Use of the Software, the "UNSCH" name, the OTI name, the official
+logos, or any associated identifiers to endorse, promote, or
+imply the endorsement of any third-party product, service, or
+activity;
+f) Use of the Software in connection with any system that processes
+data outside the institutional perimeter of UNSCH without a
+formal data-processing agreement;
+g) Use of the Software for any unlawful purpose or in violation of
+the internal regulations of UNSCH or the legislation of the
+Republic of Peru.
+
+================================================================================ 4. ACADEMIC AND EDUCATIONAL REFERENCE
+================================================================================
+
+Short, attributed quotations of the source code, documentation, or
+architecture descriptions are permitted for strictly academic,
+educational, journalistic, or technical-review purposes, in accordance
+with the fair-use provisions of Decreto Legislativo N.° 822 and
+equivalent international norms, provided that:
+
+- Proper attribution to UNSCH/OTI is given;
+- The cited excerpts are not presented as the reader's own work;
+- No complete module, file set, or runnable artifact is reproduced.
+
+================================================================================ 5. THIRD-PARTY COMPONENTS
+================================================================================
+
+The Software may include or depend on third-party components that are
+governed by their own open-source licenses (e.g. PostgreSQL, Next.js,
+Rust toolchain, Go toolchain, Python, and similar). Such components
+remain governed by their respective licenses. Nothing in this document
+restricts the rights granted by those licenses for the third-party
+components themselves; this UNSCH Proprietary License applies only to
+the original work of UNSCH/OTI.
+
+================================================================================ 6. CONTRIBUTIONS
+================================================================================
+
+Any contribution (including but not limited to source code,
+documentation, design assets, bug reports, and translations) submitted
+to UNSCH, OTI, or any of its repositories is deemed to have been
+received under the terms described in the project's CONTRIBUTING.md.
+By submitting a contribution, the contributor agrees, to the maximum
+extent permitted by law, to assign to UNSCH all right, title, and
+interest in the contribution, or, where assignment is not legally
+possible, to grant UNSCH a perpetual, worldwide, royalty-free,
+irrevocable, sublicensable license to use, reproduce, modify,
+distribute, and create derivative works of the contribution as part
+of the Software.
+
+================================================================================ 7. DATA PROTECTION
+================================================================================
+
+The Software is designed to process personal data of members of the
+UNSCH community (students, faculty, staff) and is subject to Peruvian
+Law N.° 29733 (Ley de Protección de Datos Personales) and its
+regulations. Any use of the Software involving personal data outside
+the institutional scope of UNSCH is prohibited unless accompanied by
+a formal data-processing agreement that complies with the applicable
+legal framework.
+
+================================================================================ 8. NO WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+NON-INFRINGEMENT, AND ACCURACY. UNSCH DOES NOT WARRANT THAT THE
+SOFTWARE WILL BE FREE OF DEFECTS, THAT ITS OPERATION WILL BE
+UNINTERRUPTED, OR THAT IT WILL MEET THE REQUIREMENTS OF ANY THIRD
+PARTY.
+
+================================================================================ 9. LIMITATION OF LIABILITY
+================================================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+UNSCH, ITS AUTHORITIES, EMPLOYEES, CONTRACTORS, OR STUDENTS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF DATA,
+BUSINESS INTERRUPTION, LOSS OF PROFITS, OR LOSS OF PRIVACY) ARISING
+OUT OF OR IN CONNECTION WITH THE USE OF, OR THE INABILITY TO USE, THE
+SOFTWARE, EVEN IF UNSCH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.
+
+================================================================================ 10. TERMINATION
+================================================================================
+
+Any authorization granted under this license terminates automatically
+upon any breach of its terms. Upon termination, all copies of the
+Software in the possession or control of the breaching party must be
+destroyed or returned to UNSCH, at UNSCH's discretion.
+
+================================================================================ 11. GOVERNING LAW AND JURISDICTION
+================================================================================
+
+This license is governed by the laws of the Republic of Peru. Any
+dispute arising out of or in connection with this license shall be
+submitted to the exclusive jurisdiction of the courts of Ayacucho,
+Peru, without prejudice to the procedural rules applicable to public
+institutions.
+
+================================================================================ 12. CONTACT
+================================================================================
+
+For licensing inquiries, written authorizations, or any matter
+related to the intellectual property of the Software, please contact:
+
+Oficina de Tecnologías de la Información (OTI)
+Universidad Nacional de San Cristóbal de Huamanga
+Ciudad Universitaria, Av. Independencia s/n
+Ayacucho, Perú
+Email: oti@unsch.edu.pe
+
+================================================================================
+
+For inquiries about security vulnerabilities, see SECURITY.md.
+For information on how to contribute, see CONTRIBUTING.md.
