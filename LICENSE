@@ -20,7 +20,7 @@ related rights, are reserved to UNSCH.
 
 ================================================================================
 
-1. # GRANT OF ACCESS
+1. GRANT OF ACCESS
 
 Access to the public repositories hosted under the OTI-UNSCH
 organization is provided as a courtesy to facilitate technical review,
@@ -29,8 +29,9 @@ the grant of a license, a transfer of rights, or any authorization to
 use, copy, modify, distribute, or create derivative works of the
 Software, except as expressly stated in this document.
 
-================================================================================ 2. PERMITTED USES (INTERNAL COLLABORATORS)
 ================================================================================
+
+2. PERMITTED USES (INTERNAL COLLABORATORS)
 
 The following uses are permitted ONLY for individuals who have been
 expressly authorized in writing by UNSCH, acting through the OTI, in
@@ -55,8 +56,9 @@ to the restrictions of Section 3:
 - Reproducing, in executable form, the Software in development,
   staging, or production environments operated by or for UNSCH.
 
-================================================================================ 3. EXPRESS PROHIBITIONS
 ================================================================================
+
+3. EXPRESS PROHIBITIONS
 
 Unless prior written authorization has been granted by UNSCH (through
 the OTI), the following are strictly prohibited:
@@ -85,8 +87,9 @@ g) Use of the Software for any unlawful purpose or in violation of
 the internal regulations of UNSCH or the legislation of the
 Republic of Peru.
 
-================================================================================ 4. ACADEMIC AND EDUCATIONAL REFERENCE
 ================================================================================
+
+4. ACADEMIC AND EDUCATIONAL REFERENCE
 
 Short, attributed quotations of the source code, documentation, or
 architecture descriptions are permitted for strictly academic,
@@ -98,8 +101,9 @@ equivalent international norms, provided that:
 - The cited excerpts are not presented as the reader's own work;
 - No complete module, file set, or runnable artifact is reproduced.
 
-================================================================================ 5. THIRD-PARTY COMPONENTS
 ================================================================================
+
+5. THIRD-PARTY COMPONENTS
 
 The Software may include or depend on third-party components that are
 governed by their own open-source licenses (e.g. PostgreSQL, Next.js,
@@ -109,8 +113,9 @@ restricts the rights granted by those licenses for the third-party
 components themselves; this UNSCH Proprietary License applies only to
 the original work of UNSCH/OTI.
 
-================================================================================ 6. CONTRIBUTIONS
 ================================================================================
+
+6. CONTRIBUTIONS
 
 Any contribution (including but not limited to source code,
 documentation, design assets, bug reports, and translations) submitted
@@ -124,8 +129,9 @@ irrevocable, sublicensable license to use, reproduce, modify,
 distribute, and create derivative works of the contribution as part
 of the Software.
 
-================================================================================ 7. DATA PROTECTION
 ================================================================================
+
+7. DATA PROTECTION
 
 The Software is designed to process personal data of members of the
 UNSCH community (students, faculty, staff) and is subject to Peruvian
@@ -135,8 +141,9 @@ the institutional scope of UNSCH is prohibited unless accompanied by
 a formal data-processing agreement that complies with the applicable
 legal framework.
 
-================================================================================ 8. NO WARRANTY
 ================================================================================
+
+8. NO WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
 OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
@@ -146,8 +153,9 @@ SOFTWARE WILL BE FREE OF DEFECTS, THAT ITS OPERATION WILL BE
 UNINTERRUPTED, OR THAT IT WILL MEET THE REQUIREMENTS OF ANY THIRD
 PARTY.
 
-================================================================================ 9. LIMITATION OF LIABILITY
 ================================================================================
+
+9. LIMITATION OF LIABILITY
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
 UNSCH, ITS AUTHORITIES, EMPLOYEES, CONTRACTORS, OR STUDENTS BE LIABLE
@@ -158,16 +166,18 @@ OUT OF OR IN CONNECTION WITH THE USE OF, OR THE INABILITY TO USE, THE
 SOFTWARE, EVEN IF UNSCH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGES.
 
-================================================================================ 10. TERMINATION
 ================================================================================
+
+10. TERMINATION
 
 Any authorization granted under this license terminates automatically
 upon any breach of its terms. Upon termination, all copies of the
 Software in the possession or control of the breaching party must be
 destroyed or returned to UNSCH, at UNSCH's discretion.
 
-================================================================================ 11. GOVERNING LAW AND JURISDICTION
 ================================================================================
+
+11. GOVERNING LAW AND JURISDICTION
 
 This license is governed by the laws of the Republic of Peru. Any
 dispute arising out of or in connection with this license shall be
@@ -175,8 +185,9 @@ submitted to the exclusive jurisdiction of the courts of Ayacucho,
 Peru, without prejudice to the procedural rules applicable to public
 institutions.
 
-================================================================================ 12. CONTACT
 ================================================================================
+
+12. CONTACT
 
 For licensing inquiries, written authorizations, or any matter
 related to the intellectual property of the Software, please contact:
